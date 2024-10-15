@@ -71,3 +71,7 @@ Use context managers when opening files to ensure they are properly closed.
 
 #### Exception Handling (Try/Except)
 Handle exceptions during file I/O and data processing to prevent crashes.
+
+
+Courtesy Code for loading CIFAR-10 dataset:
+https://github.com/snatch59/load-cifar-10/blob/master/load_cifar_10.py
